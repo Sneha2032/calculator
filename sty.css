@@ -1,0 +1,30 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    text-align:  center;
+    
+    color: #fdfffc;
+    background-image: url("pp.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+
+}
+h1{
+    color: black;
+    font-size: 45px;
+}
+input{
+    height: 50px;
+    width: 75px;
+    font-size: 45px;
+    border-radius: 10px;
+    margin: 10px; 
+    color: black;
+    border-style: none;
+}
+.but:hover{
+    background-color: yellow;
+    cursor: pointer;
+}
